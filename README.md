@@ -1,2 +1,3 @@
-# Marksheet-Generating-System
-This project aims to develop a web-based marksheet generating system for educational institutions. It will automate the process of generating marksheets and make it easier to manage student records.
+This is a program written in C language that asks for the student's name, roll number, school name, and standard. It then takes the student's marks in different subjects and calculates the total marks and percentage. The program uses the "goto" statement to repeat input statements if the user enters an invalid value.
+
+Using "goto" is generally discouraged in modern programming practices as it can make code difficult to understand and maintain. It can also create infinite loops if not used correctly. A better approach would be to use loops to validate the input instead of "goto" statements. Additionally, the program could be improved by using functions to calculate the total marks and percentage.
